@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vij17vjr
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analysis (from Google on coursera)
-- 💞️ I’m looking to collaborate on (I am not sure yet)
+- 👋 Hi, I’m Vijay
+- 👀 I’m interested in Data Science and ML
+- 🌱 I’m currently learning Data Science and ML Algorithms
+- 💞️ I’m looking to collaborate any kaggle competition
 - 📫 How to reach me (https://www.linkedin.com/in/vijvjr/)
 
 <!---
